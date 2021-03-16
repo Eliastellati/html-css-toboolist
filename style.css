@@ -29,9 +29,10 @@ main{
     margin: 3rem auto;
     background: white;
     border-radius: 10px;
+    padding-bottom: 3rem;
 }
 .buttons-section{
-    padding-left: 4rem;
+    padding-left: 3rem;
     border-bottom:2px solid lightgray;
 }
 .button{
@@ -95,6 +96,22 @@ main{
     display: inline-block;
     border-radius: 20px;
     background:orange;
+    color: white;
+    font-size: 0.8rem;
+    padding: .2rem 1rem;
+}
+.website{
+    display: inline-block;
+    border-radius: 20px;
+    background:rgb(180, 99, 120);
+    color: white;
+    font-size: 0.8rem;
+    padding: .2rem 1rem;
+}
+.sales{
+    display: inline-block;
+    border-radius: 20px;
+    background:rgb(147, 248, 53);
     color: white;
     font-size: 0.8rem;
     padding: .2rem 1rem;
